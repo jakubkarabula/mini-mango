@@ -1,0 +1,15 @@
+db:
+  name: test
+  host: localhost
+  user: USER
+  password: PASSWORD
+  port: 27017
+
+collections:
+  - './example.yml'
+  - './weather.yml'
+
+cors:
+  - host: localhost
+    actions:
+      - '*'

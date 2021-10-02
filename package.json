@@ -1,0 +1,21 @@
+{
+  "name": "packager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.2",
+    "morgan": "^1.10.0",
+    "process": "^0.11.10",
+    "terminal-table": "^0.0.12",
+    "yml": "^1.0.0"
+  }
+}

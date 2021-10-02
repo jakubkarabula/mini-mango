@@ -1,0 +1,16 @@
+name: weather
+version: 1.1
+required:
+    - 'date'
+    - 'temperature'
+    - 'humidity'
+properties:
+    date:
+        bsonType: string
+        description: Date in unix format
+    temperature:
+        bsonType: string
+        description: Temperature in celsius
+    humidity:
+        bsonType: string
+        description: Humidity in percentage

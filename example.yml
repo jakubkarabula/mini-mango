@@ -1,0 +1,12 @@
+name: cats
+version: 1.0
+required:
+    - 'fur_color'
+    - 'name'
+properties:
+    fur_color:
+        bsonType: string
+        description: Color of the fur
+    name:
+        bsonType: string
+        description: Just the name
