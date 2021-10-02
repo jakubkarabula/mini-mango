@@ -1,3 +1,3 @@
-# mini-nago
+# mini-mango
 
 ![Mango](mini-mango.png)
